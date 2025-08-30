@@ -1,0 +1,26 @@
+{
+  "name": "movie-explorer",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "next": "14.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@reduxjs/toolkit": "^1.9.5",
+    "react-redux": "^8.1.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.15",
+    "postcss": "8.4.29",
+    "tailwindcss": "3.3.3",
+    "eslint": "8.47.0",
+    "eslint-config-next": "14.2.3"
+  }
+}
